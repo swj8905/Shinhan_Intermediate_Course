@@ -1,0 +1,133 @@
+Le kimchi (hangeul : 김치 ; hanja : 沈菜 archaïque ; romanisation révisée : gimchi) est un mets traditionnel coréen composé de piments et de légumes lacto-fermentés, c'est-à-dire trempés dans de la saumure pendant plusieurs semaines jusqu'au développement d'une acidité.
+
+Il y a des centaines de variétés de kimchi faites à partir de différents légumes en tant que principaux ingrédients1,2. Traditionnellement, le kimchi était stocké dans le sol dans de grandes faïences afin qu'il ne gèle pas pendant les mois d’hiver. C’était la principale façon de stocker des légumes au fil des saisons. En été, le dispositif de stockage enterré gardait le kimchi assez froid pour ralentir le processus de fermentation3. À l’époque actuelle, les réfrigérateurs de kimchi sont plus généralement utilisés pour le stockage.
+
+
+Sommaire
+1	Étymologie
+2	Histoire
+3	Ingrédients
+3.1	Légumes
+3.2	Assaisonnements
+3.3	Les micro-organismes présents dans le kimchi
+4	Sous-produits du métabolisme des micro-organismes
+5	Variétés
+5.1	Couleur
+5.2	Âge
+5.3	Région
+5.4	Saison
+5.5	Printemps
+5.6	Été
+5.7	Automne
+5.8	Hiver
+5.9	La préférence des Coréens
+6	Nutrition et santé
+7	Production
+8	Processus de fabrication
+9	Réglementation alimentaire
+10	Histoire récente
+10.1	Le conflit du kimchi japonais de 1996
+10.2	Visites de la patrie de 1998 à 2007
+10.3	Crise des prix des ingrédients du kimchi en 2010
+10.4	2012 : interdiction effective des exportations de kimchi coréen vers la Chine
+10.5	Patrimoine culturel immatériel de l'humanité
+10.6	Proposé par la Corée du Sud (inscrit en 2013)
+10.7	Proposé par la Corée du Nord (inscrit en 2015)
+10.8	Boycott en Chine
+11	Économie
+12	Culture
+13	Notes et références
+Étymologie
+À l'origine, le mot kimchi signifiait « légume » (du chinois : 菜 ; pinyin : cài) « submergé » (du chinois : 沈 ; pinyin : shěn)4. Il s'agit d'un des aliments de base en Corée, accompagnant souvent les plats de ce pays, notamment sous forme de banchan.
+
+Le nom kimchi vient à la base de chimchae qui signifie légumes imprégné. chim signifie imprégné et chae légumes. ce n'est que plus tard que le nom kimchi a été adopté.
+
+Ji
+
+Le terme ji (지), qui tire son origine du coréen archaïque dihi (디히), est utilisé pour faire référence au kimchi depuis l’antiquité5. Le changement phonétique peut être à peu près décrit de la façon suivante 6 :
+
+dihi (디히) > di (디) > ji (지)
+La forme dihi du Moyen coréen figure dans de nombreux livres de la période Joseon (1392-1897)7,8. En coréen moderne, le mot subsiste en tant que suffixe -ji dans la langue standard (comme dans jjanji, seokbak-ji)9,10, et en tant que suffixe -ji ainsi qu’en tant que nom dans les dialectes Gyeongsang et Jeolla10. La forme in-palatalisée de di est conservé dans le dialecte P’yŏngan9.
+
+Kimchi
+
+Kimchi (김치) est le mot utilisé dans les langues standards de Corée du Nord et du Sud. Parmi les anciennes formes du mot il y a timchɑi (팀), transcription en Moyen coréen du mot Sino-Coréen 沈菜 (littéralement « légume immergé »). Le mot Timchai apparaît dans la traduction coréenne du 16e siècle Sohak Eonhae11 du livre chinois Xiaoxue (en coréen, Sohak)12. Les changements phonétiques du Moyen Coréen au coréen moderne concernant le mot Kimchi peuvent être décrit de la façon suivante13 :
+
+timchɑi (팀; 沈菜) > dimchɑi (딤) > jimchɑi (짐) > jimchui (짐츼) > gimchi (김치)
+La première consonne aspirée de timchai est devenue non aspirée dans dimchai, puis a subi une palatalisation dans jimchai. Le mot est ensuite devenu jimchui avec la perte de la voyelle a (아) dans la langue coréenne, puis Kimchi, avec la consonne dépalatalisée du mot initial.
+
+En coréen moderne, les caractères hanja 沈菜 se prononce chimchae (침채), et ne s’utilise pas désigner le kimchi, ou quoi que ce soit d’autre. Le mot Kimchi n’est pas considéré comme un mot Sino-coréen13. des formes plus anciennes du mot sont conservées dans beaucoup de dialectes régionaux : jimchae (dialectes Jeolla,  Hamgyŏng )9, jimchi (dialectes Chungcheong, Gangwon, Gyeonggi, Gyeongsang, Hamgyŏng, Jeolla)9, and dimchi (dialecte P'yŏngan)9.
+
+Le mot anglais « Kimchi » est peut-être issu de kimch’i, la romanisation McCune Reischauer du mot coréen Kimchi (김치).
+
+Histoire
+L’origine du kimchi remonte au moins au début de la période des Trois Royaumes de Corée (37 av. J.-C. – 7 apr. J.-C.)14. Les aliments fermentés étaient facilement accessibles, comme le texte historique chinois Chroniques des Trois Royaumes publié en 289 av. J.-C. le mentionne : « le peuple Goguryeo [renvoyant au peuple coréen] est doué pour faire de la nourriture fermentée telle que le vin, la pâte de soja, et le poisson salé et fermenté » dans la partie Dongyi dans le livre des Wei15,16 La chronique historique des Trois Royaumes de Corée Samguk Sagi, mentionne également les faïences utilisées pour fermenter les légumes, ce qui montre que les légumes fermentés étaient couramment consommés à cette époque15,17. Pendant la dynastie de Silla (57 av. J.-C. – 935 apr. J.-C.), le kimchi est devenu très répandu comme le bouddhisme s’est diffusé dans tout le pays et a promu un style de vie végétarien18.
+
+Le marinage des légumes était une méthode idéale, précédent les réfrigérateurs, qui permettait de préserver la durée de vie des aliments. En Corée, le Kimchi était fabriqué pendant l’hiver par la fermentation des légumes, et en les enfouissant dans le sol dans des pots en céramique marron traditionnels appelés onggi. Ce travail a également permis la création de liens entre les femmes au sein de la famille18. Un poème sur le radis coréen, écrit par Yi Gyubo à 13e siècle, montre que le kimchi au radis était monnaie courante au sein du royaume de Goryeo (918-1392)2,19,20.
+
+« Les tranches de radis marinées font un bon plat d’accompagnement d’été,
+
+Le radis préservé dans le sel est un accompagnement d’hiver du début à la fin.
+
+Les racines dans la terre sont plus grosses chaque jour,
+
+La moisson après le givre, une tranche coupée par un couteau a le goût de poire. »
+
+— Yi Gyubo, Dongguk isanggukjip (traduit par Michael J. Pettid, in Korean cuisine: An Illustrated History)
+
+Le Kimchi est un incontournable de la culture coréenne, mais les versions historiques n’étaient pas un plat épicé21. Les premières archives ne mentionnent ni ail ni piment22. Les piments, maintenant devenue un ingrédient standard du kimchi, étaient inconnus en Corée jusqu’au début de dix-septième siècle étant devenus alors une culture du Nouveau Monde. Les piments, provenant à l’origine des Amériques, ont été apportés en Asie de l’Est par les marchands portugais22,23,24. La première allusion au piment se trouve dans l’encyclopédie Jibong yuseol publiée en 161415,25. Le livre du 17e-18e siècle sur la gestion de la ferme parle de kimchi avec du piment15,26. Cependant, ce n’est qu’au 19e siècle que l’utilisation de piment s’est généralisée27. Les recettes du début du 19e siècle sont très proches du kimchi actuel28,29.
+
+Le livre Jeungbo sallim gyeongje de 1766 rapporte les variétés de kimchi faites avec d’innombrable ingrédients, notamment le chonggak-kimchi (kimchi fait avec du radis Chonggak), le oi-sobagi (avec du concombre), le seokbak-ji (avec du jogi jeot), et le dongchimi15,30. Néanmoins, le chou chinois n’est arrivé en Corée qu’à la fin du 19e siècle27, et le kimchi composé de chou similaire à sa forme actuelle est décrit dans le livre de cuisine Siuijeonseo publié à l’époque31.
+
+Le Kimchi est un plat national aussi bien en Corée du Nord et du Sud. Pendant l’implication de la Corée du Sud dans la guerre du Vietnam, son gouvernement a demandé aux États-Unis de garantir que les soldats sud-coréens, ayant apparemment « désespérément » besoin de nourriture, pourraient en obtenir sur le champ de bataille32. Le président sud-coréen Park Chung-hee a dit au président américain Lyndon B. Johnson que le kimchi était « indispensable au moral des soldats coréens ». Le kimchi fut aussi envoyé dans l’espace à bord du Soyuz TMA-12 avec un astronaute sud-coréen Yi So-yeon après des travaux de recherche de plusieurs millions de dollars pour tuer les bactéries et diminuer l’odeur sans que cela affecte le goût32. Le 22 novembre 2017 un Google doodle a servi à « Célébrer le Kimchi »33.
+
+Ingrédients
+
+Les ingrédients basiques du kimchi
+Les variétés de Kimchi sont déterminées par les principaux légumes et le mélange d’assaisonnement utilisés.
+
+Légumes
+Il existe de nombreux types de Kimchi, mais sa version la plus célèbre est le Kimchi au chou34. Pour de nombreuses familles, ce repas piquant et souvent épicé est une source de fierté et rappelle le goût d'un bon foyer34. Les choux (choux napa, bomdong, choux pommés) et les radis (radis coréens, radis en queue de cheval, radis gegeol, radis yeolmu) sont les légumes kimchi les plus couramment utilisés3. Les autres légumes kimchi incluent: aster, racines de fleurs ballon, racines de bardane, céleri, chamnamul (en), coriandre, cresson, feuilles de marguerite en couronne, concombre, aubergine, ciboule de Chine, gousses d'ail, arbre à l'angélique de Corée, persil coréen, racines de lotus, feuilles de moutarde, oignons, feuilles de perilla, pousses de bambou, charançons de Momordica, citrouilles, feuilles de colza, oignons verts, pousses de soja, épinards, betteraves à sucre, patates douces et tomates35.
+
+Assaisonnements
+Le sel de saumure (dont le grain est plus gros que le sel de cuisine) est principalement utilisé pour le salage initial des légumes kimchi. Étant peu transformé, il contribue au développement des arômes dans les aliments fermentés36.
+
+Les assaisonnements couramment utilisés comprennent le gochugaru (poudre de chili), les oignons verts, l'ail, le gingembre et le jeotgal (fruits de mer salés)3. Le jeotgal peut être remplacé par des fruits de mer crus dans les régions plus froides du nord de la péninsule coréenne35. S'il est utilisé, le saeu-jeot (crevette salée) plus doux est préférable et la quantité de jeotgal est également réduite dans les régions du Nord et du Centre35. En Corée du Sud, en revanche, on utilise couramment une quantité généreuse de myeolchi-jeot (anchois salés) et de galchi-jeot (poisson-sabre salé)35. Des fruits de mer crus ou daegu-agami-jeot (branchies de morue salée) sont utilisés sur les zones de la côte est35.
+
+Du sel, des oignons verts, de l'ail, de la sauce de poisson et du sucre sont couramment ajoutés pour parfumer le kimchi37.
+
+Les micro-organismes présents dans le kimchi
+Parmi les micro-organismes présents dans le kimchi il y a : Bacillus mycoides, B. pseudomycoides, B. subtilis, Lactobacillus brevis, Lb. curvatus, Lb. kimchii, Lb. parabrevis, Lb. pentosus, Lb. plantarum, Lb. sakei, Lb. spicheri, Lactococcus carnosum, Lc. gelidum, Lc. lactis, Leuconostoc carnosum, Ln. citreum, Ln. gasicomitatum, Ln. gelidum, Ln. holzapfelii, Ln. inhae, Ln. kimchii, Ln. lactis, Ln. mesenteroides, Serratia marcescens, Weissella cibaria, W. confusa, W. kandleri, W. kimchii. W. koreensis, and W. soli38,39,40,41,42,43,44,45.
+
+
+La fermentation du kimchi.
+Ces micro-organismes, présents dans la microflore naturelle, se retrouvent dans le kimchi en utilisant des produits alimentaires non stérilisés lors de la fabrication46,47. Le fait de saler les matières premières inhibe les pathogènes et les bactéries en putréfaction présents dans la microflore, permettant aux bactéries lactiques (BAL) de se développer et de devenir les micro-organismes dominants46,48. Puisque les légumes crucifères crus sont eux-mêmes source de BAL nécessaires à la fermentation, aucune culture de départ n’est requise dans la production du Kimchi : la fermentation se produit de façon spontanée49. La population totale de micro-organismes présents au début du processus détermine l’issue de la fermentation, provoquant alors un résultat final très variable en qualité et en goût46. Actuellement, il n’y a aucune méthode recommandée pour contrôler la flore microbienne pendant la fermentation afin de d’anticiper le produit final49.
+
+Sous-produits du métabolisme des micro-organismes
+
+Gat kimchi
+Les bactéries BAL produisent de l'acide lactique, du peroxyde d'hydrogène et du dioxyde de carbone au cours de la digestion. L'acide lactique fait rapidement baisser le pH, créant un environnement acide inhabitable pour la plupart des autres micro-organismes ayant survécu au salage47. Cela modifie le goût des ingrédients et peut augmenter la valeur nutritive, car la population microbienne peut synthétiser les vitamines B et hydrolyser la cellulose dans les tissus végétaux, et ainsi libérer des nutriments normalement indisponibles pour le système digestif humain47. Le peroxyde d'hydrogène est formé par l'oxydation du nicotinamide adénine dinucléotide réduit (NADH), il fournit un antibiotique pour inhiber certains micro-organismes indésirables47. Le dioxyde de carbone agit en tant que conservateur, évacuant l'oxygène pour créer un environnement anaérobie et créant la carbonatation souhaitée dans le produit final47.
+
+Variétés
+
+Baechu gimchi, une des nombreuses sortes de kimchi.
+
+Des kimchi au milieu d'autres banchan, petits plats d'accompagnement des repas coréens traditionnels.
+
+Jarres utilisées pour préparer les kimchi.
+Les ingrédients les plus courants du kimchi sont le chou chinois, les carottes, les radis comme le radis blanc, l'ail, le piment rouge, l'oignon blanc frais, les crevettes fermentées ou autres fruits de mer, le gingembre, le sel et le sucre. Alors que l'on associe généralement le kimchi au chou chinois fermenté avec un mélange de piment rouge, d'ail, de gingembre, et de sauce de poisson salée (paech'u kimch'i), il existe différents types de kimchi, dont plusieurs variétés régionales ou saisonnières. On trouve par exemple le kaktugi, à base de radis, et l'oisobagi, à base de concombre farci. Le kaennip se compose de couches de feuilles de perilla marinées dans un mélange de sauce de soja, de piments, d'ail, d'oignons verts et d'autres épices.
+
+Le baechu kimchi (kimchi de chou chinois), qui est la variété de kimchi la plus répandue aujourd'hui, est en fait relativement récent. Les piments rouges ont été introduits en Corée par les Japonais au début du xviie siècle et leur utilisation dans les kimchi n'est devenue populaire que deux siècles plus tard. Le chou chinois n'a sans doute pas été introduit en Corée avant le xixe siècle ; auparavant, le kimchi devait être fabriqué à partir de légumes autochtones.
+
+Le kimchi peut être préparé avec du chou occidental s'il n'est pas possible de se procurer de chou chinois. En Corée, le kimchi est un accompagnement populaire, mais il est aussi souvent utilisé comme un ingrédient culinaire, par exemple dans le kimchi chigae (soupe de kimchi) ou le kimchi bokkumbap (riz frit au kimchi).
+
+Sa fermentation se réalise dans des jarres en terre cuite ensevelies pour certaines dans la terre, et peut durer plusieurs mois, voire plusieurs années.
+
+Le Kimchi est l’un des plats les plus importants dans la cuisine coréenne. « Kimchi » est la terminologie coréenne pour légumes fermentés, et englobe les légumes salés et assaisonnés34. Le Kimchi est un plat traditionnel coréen composé de légumes marinés, qui est le plus souvent servi en tant que plat d’accompagnement à chaque repas, mais il peut aussi être servi en tant que plat principal50. Le Kimchi est généralement reconnu comme un plat de chou fermenté et épicé18.
+
+Les variations sont illimitées, comme les coréens « peuvent faire du kimchi avec tout ce qui comestible, un concept qui élargit les possibilités… »51. Le nombre de variétés continue d’augmenter, et le goût peut varier d’une région et d’une saison à l’autre52. Traditionnellement, le secret de la préparation du kimchi se passait de mère en fille dans l’espoir que cette dernière devienne une épouse convenable pour son mari53. Cependant, avec les avancées technologiques actuelles et l’augmentation de l’utilisation des réseaux sociaux, beaucoup de personnes dans le monde entier ont maintenant accès aux recettes de kimchi53.
+
+Le kimchi peut être classé selon les principaux ingrédients, les régions et les saisons. La différence de température entre la Corée du Nord et la Corée du Sud est considérable54. Il y a plus de 180 variétés reconnues de kimchi55. Les variétés de kimchi les plus courantes sont :
+
+baechu-kimchi (배추김치), kimchi de chou chinois épicé, fait à partir de feuilles de chou entières ;
+Baechu-geotjeori (배추겉절이), kimchi au chou chinois non-fermenté ;
