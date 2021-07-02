@@ -1,0 +1,3 @@
+([('29_pyqt5_공학용계산기',
+   '/Users/admin/PycharmProjects/Online_Intermediate_Course/dist/29_pyqt5_공학용계산기',
+   'EXECUTABLE')],)
